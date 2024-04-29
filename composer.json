@@ -20,7 +20,7 @@
     "extra":{
         "virion": {
             "spec": "3.0",
-            "namespace-root": "vp817\\GameLib"
+            "namespace-root": "vNoaaah\\GameLib"
         }
     }
 }
